@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-void main (void) {
+int main (void) {
     fprintf(stdout, "Hello world!\n");
+    return(0);
 }
