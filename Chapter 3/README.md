@@ -1,0 +1,3 @@
+#Chapter 3
+
+Chapter 3 is the start of the practical part of the guide with examples of basic C programs.  The chapter covers some of the formatting challenges that come with C as unlike Fortran and COBOL before C, its a 'free-form language' thath allows you to start any statement anywhere on any column, and even having multiple statements on the same line.  There are a couple examples largely to show readability is helped with good C structure.
